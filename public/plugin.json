@@ -1,0 +1,22 @@
+{
+  "pluginName": "spu-word-format-helper",
+  "name": "Word 格式化小助手",
+  "version": "1.0.0",
+  "description": "Word 格式化小助手是一款轻量级文档处理插件，专注于解决文档写作中最耗时、最琐碎的数据清理与排版规范两大问题。它帮助用户在几秒钟内完成原本需要手动逐行调整的工作，让文档格式整洁统一，内容清晰可读",
+  "author": "Spu",
+  "homepage": "https://github.com/Spu/word-format-helper",
+  "main": "index.html",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://localhost:5173"
+  },
+  "features": [
+    {
+      "code": "wd",
+      "explain": "Word 格式化小助手",
+      "cmds": [
+        "wd"
+      ]
+    }
+  ]
+}
